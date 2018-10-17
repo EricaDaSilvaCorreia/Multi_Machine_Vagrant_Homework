@@ -9,8 +9,7 @@ sudo apt-get install nginx -y
 
 
 # Install gems
+sudo apt-get install gem 
 sudo gem install bundler
 sudo gem install rake
 sudo gem install rails
-
-
